@@ -44,7 +44,9 @@ MEDIA_URL = '/media/'
 
 WSGI_APPLICATION = 'config.wsgi.application'
 
-TIME_ZONE = 'UTC'
+#TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europa/Budapest'
+
 
 USE_I18N = True
 USE_L10N = True
